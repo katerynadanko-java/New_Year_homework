@@ -1,9 +1,20 @@
 Hello my friends!
 I`m glad to see you!
 The weather is fine!
+<<<<<<< HEAD
 I will go for walk!
 I add anouther line in A
 I add one more in A
 
 
 
+=======
+I will gooooooo for walk!
+
+Что же такое Git, если говорить коротко? 
+Очень важно понять эту часть материала, потому что если вы поймёте, 
+что такое Git и основы того, как он работает, тогда, возможно, 
+вам будет гораздо проще его использовать. Пока вы изучаете Git, 
+попробуйте забыть всё, что вы знаете о других СКВ, 
+таких как Subversion и Perforce.
+>>>>>>> 663b3c93c15cfbef2a8fe9e643164a741303cde8
