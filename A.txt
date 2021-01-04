@@ -2,3 +2,5 @@ Hello my friends!
 I`m glad to see you!
 The weather is fine!
 I will go for walk!
+I add anouther line in A
+I add one more in A
